@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyNoteMvvm" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#FFC107</item>
+    </style>
+
+    <style name="Theme.MyNoteMvvm" parent="Base.Theme.MyNoteMvvm" />
+</resources>
